@@ -1,0 +1,5 @@
+/bin/*.exe
+/bin/*.ilk
+/bin/*.pdb
+/obj/
+/src/*.user
